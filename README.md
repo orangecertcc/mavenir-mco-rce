@@ -52,4 +52,4 @@ The process that handles SIP messages on MCO is `scn`, which runs under unprivil
 * 06 Mar 2019: Orange inquires about vendor feeback
 * 06 Mar 2019: Vendor acknowledges vulnerability and asks to report disclosure to 27th of March
 * 08 Mar 2019: Orange accepts to postpone the public disclosure
-* 27 Mar 2019: ![public disclosure](https://github.com/orangecertcc/mavenir-mco-rce)
+* 27 Mar 2019: [public disclosure](https://github.com/orangecertcc/mavenir-mco-rce)
